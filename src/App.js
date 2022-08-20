@@ -8,7 +8,7 @@ import SearchIcon from './search.svg';
 
 
 const API_KEY = '45b613b9';
-const BASE_URL = `http://www.omdbapi.com/?apikey=`;
+const BASE_URL = `https://www.omdbapi.com/?apikey=`;
 const API_URL = `${BASE_URL}${API_KEY}`;
 
 const App = () => {
